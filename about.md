@@ -7,9 +7,9 @@ permalink: /about/
 ### hello 👋🏼
 
 this is a sandbox of all my thoughts and learnings relating to my interests in data, consumer-tech products, and business strategy.
-let's [connect](https://www.linkedin.com/in/royceleh/)!
+let's [connect!](https://www.linkedin.com/in/royceleh/)
 
-my past experiences:
+past experiences:
 * *current*: incoming business analyst in the APAC quick commerce space 
 * *2021:* product & data analytics at the ad-tech vertical of a SEA superapp [(grab)](https://www.grab.com/sg/)
 * *2020:* ground-up analytics reporting at APAC’s leading cashback platform [(shopback)](https://www.shopback.sg/)
