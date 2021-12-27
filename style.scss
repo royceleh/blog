@@ -73,9 +73,9 @@ a {
   color: $gold;
   text-decoration: none;
 	cursor: pointer;
-  &:hover, &:active {
-    color: $gold;
-  }
+  // &:hover, &:active {
+  //   color: $gold;
+  // }
 }
 
 ul, ol {
