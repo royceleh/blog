@@ -118,8 +118,9 @@ img {
 
 .date {
   font-style: normal;
-  font-size: 15px;
+  font-size: 16px;
   color: $gold;
+  font-weight: bold;
 }
 
 // Specify the color of the selection
@@ -269,7 +270,8 @@ nav {
 
   .read-more {
     text-transform: lowercase;
-    font-size: 15px;
+    font-size: 16px;
+    font-weight: bold;
   }
 }
 
