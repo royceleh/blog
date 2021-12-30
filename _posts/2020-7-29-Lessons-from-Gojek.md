@@ -3,10 +3,11 @@ layout: post
 title: Lessons from Gojek's Podcasts
 ---
 
-Gojek is one of Southeast Asia’s superapp offering an on-demand multi-service tech platform. Last valued at US$10 billion, the decacorn launched a 14-episode podcast called GO FIGURE last year, hosted by then-CEO Nadiem Makarim, to discuss authentically the inner workings of a high-growth tech company. 
-I went through the podcast and compiled some personal takeaways below (You can find the podcast on Youtube, Spotify and other popular podcast platforms).
+Gojek is one of Southeast Asia’s superapp offering an on-demand multi-service tech platform. I went through a 14-episode podcast called GO FIGURE, hosted by then-CEO Nadiem Makarim, and compiled some personal takeaways below.
 
 #### Episode 1: Gojek’s Growing Pains of Becoming a Decocorn
+
+https://www.youtube.com/watch?v=U-6abjz9DHc
 
 * The leadership team underinvested in communicating the company’s vision and strategy effectively once Gojek started growing beyond a small group of employees. There were no company-wide OKRs and planning tools, resulting in alignment issues between teams due to the lack of a reference point on the company’s priority. Resolutions were made on a point-by-point basis from management, which gave the impression of a top-down leadership approach.
 * There were instances where the team prioritised what the company was gunning for based on observations of other successful companies who were able to monetise (ie taking a business perspective), instead of focusing on taking a product/problem-centric approach. Ultimately, if you are able to help people solve a key problem, monetisation and revenue will follow.
@@ -81,6 +82,27 @@ I went through the podcast and compiled some personal takeaways below (You can f
 
 * The most useful part of attending business school was meeting and watching other students in action with their startups.
 * The most effective way to learn how to start a company is by jumping in or to gain experience at another high-growth company.
+
+#### Episode 12: Is Design An Art Or Science? 
+
+* UX design is functional, there may be some room for self-expression, but it should not stand in the way of meeting the requirements of the product. 
+* UX designers need to take charge of the end-end experience (service design), and part of that experience can be outside of the product itself (Example: The process of placing an order all the way to receiving the food).
+* Software design comes from a constraint (space),  so less is more and there’s a science behind it. Design may be subjective, but there’s definitely a right and wrong way to do things. It takes a lot of research, iterations and data to validate the design decisions made.
+* At a time where most apps/products are free to use, UX becomes an important differentiator.
+
+#### Episode 13: The Realities Of Becoming A Startup Founder 
+
+* People look up to founders as ‘heroes’ when they are merely normal people with flaws who are learning on the job. Many founders struggle with failure and are not able to recover from that. 
+* If your objective is to be something, you will never ever amount to the level of success that you think you want, because you are not obsessing about something in the real world that you want to fix, a problem that you want to address. You are obsessing over the image or the vision of you in the future. 
+* When you go after inefficiencies, the possibilities are endless. Things appear to be a problem only when you have a better solution. 
+
+#### Raising Billions: Gift Or Curse?
+
+* Fundraising involves storytelling a conviction about the future and the promise that you are making. Gojek’s story evolved to be a full-stack mobility platform (move humans, goods and money) and that made the addressable market so big and the story so compelling.
+* Traction is important to show the company’s ability to consistently execute and monetise. Even if you are burning money for growth, you can have experiments that show that the company can achieve break-even/profitability by tweaking internal lever.
+* The worst thing to do is to build a business that is predicated on the next fundraise. The company should have fail-safes built into the business that always assume that this will be the last fundraise.
+* As the company scales and investments get more sophisticated, the impact of the executive team diminishes, and investors start looking at the layer below when deciding whether to invest. Your organisational structure, company culture, target setting etc becomes even more important.
+
 
 
 
