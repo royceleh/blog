@@ -1,5 +1,7 @@
 ---
 layout: post
+category: learn
+tags: royce ho
 title: Lessons from Gojek's Podcasts
 ---
 
