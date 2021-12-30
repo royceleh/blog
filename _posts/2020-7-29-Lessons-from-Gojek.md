@@ -7,7 +7,7 @@ Gojek is one of Southeast Asia’s superapp offering an on-demand multi-service 
 
 #### Episode 1: Gojek’s Growing Pains of Becoming a Decocorn
 
-https://www.youtube.com/watch?v=U-6abjz9DHc
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U-6abjz9DHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * The leadership team underinvested in communicating the company’s vision and strategy effectively once Gojek started growing beyond a small group of employees. There were no company-wide OKRs and planning tools, resulting in alignment issues between teams due to the lack of a reference point on the company’s priority. Resolutions were made on a point-by-point basis from management, which gave the impression of a top-down leadership approach.
 * There were instances where the team prioritised what the company was gunning for based on observations of other successful companies who were able to monetise (ie taking a business perspective), instead of focusing on taking a product/problem-centric approach. Ultimately, if you are able to help people solve a key problem, monetisation and revenue will follow.
@@ -96,7 +96,7 @@ https://www.youtube.com/watch?v=U-6abjz9DHc
 * If your objective is to be something, you will never ever amount to the level of success that you think you want, because you are not obsessing about something in the real world that you want to fix, a problem that you want to address. You are obsessing over the image or the vision of you in the future. 
 * When you go after inefficiencies, the possibilities are endless. Things appear to be a problem only when you have a better solution. 
 
-#### Raising Billions: Gift Or Curse?
+#### Episode 14: Raising Billions: Gift Or Curse?
 
 * Fundraising involves storytelling a conviction about the future and the promise that you are making. Gojek’s story evolved to be a full-stack mobility platform (move humans, goods and money) and that made the addressable market so big and the story so compelling.
 * Traction is important to show the company’s ability to consistently execute and monetise. Even if you are burning money for growth, you can have experiments that show that the company can achieve break-even/profitability by tweaking internal lever.
