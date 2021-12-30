@@ -16,17 +16,23 @@ Gojek is one of Southeast Asia’s superapp offering an on-demand multi-service 
 
 #### Episode 2: Unlocking GOJEK's 2 Million Drivers
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x2oyYrLCjc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * There needs to be constant communication and interaction between Ops and Product to learn about each side’s perspectives, instead of making assumptions. Both teams have their own characteristics: Ops tends to be more anecdotal, while product and other digital teams are likely more data-driven. 
 * There’s often the tempting short-term solution of employing human resources rather than technical resources (the former is often cheaper in countries like Indonesia) to solve Ops’ problems. That’s fast, but it doesn’t help you go far. Nonetheless, below a certain scale, it's fine to use such processes (especially when you are in the testing phase) instead of trying to build and automate everything.
 * It’s important to bridge the gap and build the same level of empathy that Ops has in non-user-facing teams. Having more empathy improves intellectual curiosity and opens up an individual’s point of view when addressing issues.
 
 #### Episode 3: The Gender Gap in Tech and How Gojek is Bridging it
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IrQl5rle7LA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * While the gender ratio at entry level roles may be balanced, it progressively becomes more skewed towards males at higher levels of the organisation. This can be generalised to most industries, not just in tech.
 * It’s not just about gender, the point is diversity - Females bring in a different perspective. Gender just happens to be the most visible branch of diversity. Diversity should be enforced on a project basis, instead of just a general ratio at the organisational level.
 * The solution shouldn’t be to intentionally hire more females, because that is preferential treatment towards women. It’s about looking for the best performer, regardless of gender.
 
 #### Episode 4: Realistic Approaches To Machine Learning At Gojek
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Apno7FGZY1A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * To be considered successful, machine learning initiatives should either improve efficiency through automation, or push business metrics and customer experiences forward. The struggle comes from integrating data science with business problems.
 * After formulating the problem, the first step is usually to start with a simple model first and get a baseline, before exploring more complex models. Lots of exploring and experimentations are involved in machine learning, you likely won’t get it right on your first try.
@@ -35,11 +41,15 @@ Gojek is one of Southeast Asia’s superapp offering an on-demand multi-service 
 
 #### Episode 5: Gojek's Organisational Principles
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AtH6h0yzFZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * Long-term principles compound like savings accounts, there is no instant gratification and things may slow down in the short-run but they will have a long-term impact in the grand scheme of things. 
 * You can be a people or thought leader, irrespective of your role. As the company grows to become complex, it needs masses of people who are adept at problem-solving and collaborating at all levels.
 * It’s easy to recognise the importance of fostering an environment of collaboration and breaking down silos, but most companies don’t create the goal-setting incentives to achieve that. Quantifying collaboration and infusing it into processes helps to facilitate instituting such principles.
 
 #### Episode 6: Gojek's 10x Engineer - Truth or Myth?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/He0XBBfCEVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * When > 1 person works on a software, it becomes a communication problem and productivity dips beyond a certain headcount (~5). At Gojek, the system architecture gets mapped out based on what a 5-person team can do, instead of the reverse.
 * Systems should be refactored as the startup grows and scales to better serve the multi-users. Until that refactoring is done, adding more engineers/teams will just add on to the bottleneck. Every startup likely goes through this process, as it’s inefficient to plan things out right from the start. You want to start monolithic since communication overhead is initially low. 
@@ -47,12 +57,16 @@ Gojek is one of Southeast Asia’s superapp offering an on-demand multi-service 
 
 #### Episode 7: Is Bottom Up Innovation Really Possible at Gojek?
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XTNZ5-Q2gl4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * Culture is everything that is not stated in processes/policies but defines the decisions that employees make everyday. It is an outward manifestation of a consistent shared set of values, identified by the actions that people take. It is also an efficient and scalable way of creating shared behaviours that no amount of policies can match.
 * Walk the talk: At Gojek, leaders in technical teams have the necessary background. They are expected to be very involved in building things and serve as role models for their departments. 
 * A sense of belonging and psychological safety encourages employees to behave autonomously (feel safe making decisions in this environment even though these decisions aren’t codified and protected by policies).
 * Fear works and scales in systems/organisations where you are dealing with a completely solved problem that will not evolve, where everything is clear, and there’s little/no need for creativity. To be creative, you need to be open to failing and iterating. Creativity is not just about ideation, it’s about flexibly solving complex unexpected problems. When there’s a price to pay for failing, creativity is stifled.
 
 #### Episode 8: How Does Gojek Design A Product That Actually “Fits”
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPfvMsBsirg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * The biggest mistake is to jump straight into the solution, without first identifying the problem to address.
 * Finding product market fit involves optimising as early as you can (time), as economically as you can (cost) and with a high degree of confidence. 
@@ -64,6 +78,8 @@ Gojek is one of Southeast Asia’s superapp offering an on-demand multi-service 
 
 #### Episode 9: Gojek’s Growth Dilemma
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YyNrgZSYY9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * Incentives can get you the jumpstart you need to understand users’ product behaviour, however these tactics should be applied as part of a longer-term strategy. For instance, promotions could be used as a top-of-mind nudge to test whether the behaviour of getting a user to complete his/her Xth transaction is important.
 * Marketing as a function is decreasing in effectiveness, because companies are assessing it in the short-term (eg month-to-month) and there is the pressure to deliver immediate results when in fact, there is a massive delay in the actual impact of brand-building campaigns (average 6 months). Marketing’s role is to be the first to mind in purchase occasions, to occupy that mental share.
 * The user base of any company consists of users of different frequencies, with the far majority being infrequent users. It’s more effective to spread wide (reach) than to keep hitting on the same user repeatedly (frequency), when you’re targeting growth. 
@@ -73,6 +89,8 @@ Gojek is one of Southeast Asia’s superapp offering an on-demand multi-service 
 
 #### Episode 10: Fantastic Product Managers and Where to Find Them in Gojek
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rf4dy3ayicU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * At the end of the day, it’s all about solving the customer’s problem and that is how you should be evaluated (not strictly by the number of features you shipped etc). PMs should own the autonomy and accountability (vs being instructed on what to ship).
 * Product management is massively unpredictable and PMs need the mental resilience to be comfortable with this. They should also have the ability to think a few steps ahead and contingency plan, creating a sense of calmness within the team. 
 * PMs should genuinely love products that solve the customer’s problems (not limited to tech products). They do not necessarily need to have built one before, but they need to demonstrate that they have thought deeply about the products they use and understand why they love them. 
@@ -80,10 +98,14 @@ Gojek is one of Southeast Asia’s superapp offering an on-demand multi-service 
 
 #### Episode 11: How 3 Founders Met In Business School And Joined Forces
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X9lwi0poV9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * The most useful part of attending business school was meeting and watching other students in action with their startups.
 * The most effective way to learn how to start a company is by jumping in or to gain experience at another high-growth company.
 
 #### Episode 12: Is Design An Art Or Science? 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7GcZxsRGc0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * UX design is functional, there may be some room for self-expression, but it should not stand in the way of meeting the requirements of the product. 
 * UX designers need to take charge of the end-end experience (service design), and part of that experience can be outside of the product itself (Example: The process of placing an order all the way to receiving the food).
@@ -92,11 +114,15 @@ Gojek is one of Southeast Asia’s superapp offering an on-demand multi-service 
 
 #### Episode 13: The Realities Of Becoming A Startup Founder 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WSb_7dNG9mo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * People look up to founders as ‘heroes’ when they are merely normal people with flaws who are learning on the job. Many founders struggle with failure and are not able to recover from that. 
 * If your objective is to be something, you will never ever amount to the level of success that you think you want, because you are not obsessing about something in the real world that you want to fix, a problem that you want to address. You are obsessing over the image or the vision of you in the future. 
 * When you go after inefficiencies, the possibilities are endless. Things appear to be a problem only when you have a better solution. 
 
 #### Episode 14: Raising Billions: Gift Or Curse?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g0en_tkRB_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Fundraising involves storytelling a conviction about the future and the promise that you are making. Gojek’s story evolved to be a full-stack mobility platform (move humans, goods and money) and that made the addressable market so big and the story so compelling.
 * Traction is important to show the company’s ability to consistently execute and monetise. Even if you are burning money for growth, you can have experiments that show that the company can achieve break-even/profitability by tweaking internal lever.
