@@ -274,14 +274,13 @@ nav {
   }
 	
   .post-categories {
-    color: $white;
+    color: $white !important;
     display: inline;
     background-color: $gold;
     font-size: 16px;
     font-weight: 500;
     border-radius: 20px; /* Making border radius */
     padding: 2px 2px 2px 2px; /* Making space around letters */
-    position: relative;
     text-align: right;
   }
 }
