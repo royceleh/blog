@@ -273,8 +273,9 @@ nav {
     font-weight: 500;
   }
 	
-  .post-categories span {
+  .post-categories {
     color: $darkGray;
+    display: inline;
     background-color: $gold;
     font-size: 16px;
     font-weight: 500;
