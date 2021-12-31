@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: think
-title: Burpple Redesign Prototype
+title: 🍴 Burpple Redesign Prototype
 ---
 
 I have recently been trying out Figma and decided to practice by working on an idea that I had in mind.
