@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: learn
-title: Growth Notes
+title: 🚀 Growth Notes
 ---
 
 ### Prelude
