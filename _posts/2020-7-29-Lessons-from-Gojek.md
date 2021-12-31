@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: learn
-title: Lessons from Gojek's Podcasts
+title: 🎧 Lessons from Gojek's Podcasts
 ---
 
 Gojek is one of Southeast Asia’s superapp offering an on-demand multi-service tech platform. I went through a 14-episode podcast called GO FIGURE, hosted by then-CEO Nadiem Makarim, and compiled some personal takeaways below.
